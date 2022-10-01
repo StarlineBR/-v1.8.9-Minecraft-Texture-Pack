@@ -39,7 +39,7 @@
 > **Warning**<br>
 > 【DISCLAIMER】I use parts from other texture packs to complement the texture pack. I don't aim to infringe any creator's copyright, the original authors credits are recorded in the texture pack description which gives users the freedom to download the original texture pack instead of my texture pack.
 
-### 【MOD'S I LIKE TO USE】<br>
+### 【MODS I LIKE TO USE】<br>
 ● InventoryHUD<br>
 ● The 5zig Mod<br>
 ● OptiFine<br>
