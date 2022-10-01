@@ -1,4 +1,6 @@
- ### 【FEATURES - v1.8.9】
+### 【USED TEXTURE PACKS】<br>
+ [download texture pack here](https://www.mediafire.com/folder/dll61c02c0mgl/V1)
+### 【FEATURES - v1.8.9】
  <ins>**This texture pack changes the looks of:**</ins><br>
  ● Diamond Armor Layer 1<br>
  ● Diamond Armor Layer 2<br>
@@ -23,7 +25,7 @@
  ● options > video options... > Quality... and enable the Custom Items option<br>
  ⚠️ Para ativar o efeito de durabilidade das armaduras, você precisa do optfine e ir nas opções:<br>
  ● opções > opções de vídeo... > Qualidade... e ativar a opção Itens personalizados<br>
- 🔗 OptiFine 1.8.9
+ 🔗 [OptiFine 1.8.9](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_L5.jar)
   ### 【GUIDE】<br>
  ● Download the texture<br>
  ● Unzip the texture into minecraft's "resource packs" folder
