@@ -35,12 +35,12 @@
  🔗[SoundPhantom's 128x Enchanting Table](https://www.planetminecraft.com/texture-pack/soundphantom-s-128x-enchanting-table/)<br>
  🔗[BlayzRoc's Night Sky - Pink/Cyan Nebula [​1024x]](https://www.planetminecraft.com/texture-pack/blayzroc-s-night-sky-pink-cyan-nebula-1024x/)<br>
  🔗[Trapped chest indicator V2 | By JustOwl](https://www.planetminecraft.com/texture-pack/trapped-chest-indicator-v2-by-justowl/)<br>
- 🔗[Voidomon's Enchanted Books](https://www.planetminecraft.com/texture-pack/voidomon-s-enchanted-books/)<br><br>
-> **Warning**<br>
-> 【DISCLAIMER】I use parts from other texture packs to complement the texture pack. I don't aim to infringe any creator's copyright, the original authors credits are recorded in the texture pack description which gives users the freedom to download the original texture pack instead of my texture pack.
-
-### 【MODS I LIKE TO USE】<br>
+ 🔗[Voidomon's Enchanted Books](https://www.planetminecraft.com/texture-pack/voidomon-s-enchanted-books/)
+ ### 【MODS I LIKE TO USE】<br>
 ● InventoryHUD<br>
 ● The 5zig Mod<br>
 ● OptiFine<br>
+> **Warning**<br>
+> 【DISCLAIMER】I use parts from other texture packs to complement the texture pack. I don't aim to infringe any creator's copyright, the original authors credits are recorded in the texture pack description which gives users the freedom to download the original texture pack instead of my texture pack.
+> 
 ![thumb](https://github.com/StarlineBR/RavenaStar-Minecraft-Texture-Pack-v1.8.9/blob/main/img/ARMOR%20DURABILITY2.png?raw=true)
