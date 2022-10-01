@@ -1,4 +1,4 @@
-### 【USED TEXTURE PACKS】<br>
+### 【DOWNLOAD】<br>
  [download texture pack here](https://www.mediafire.com/folder/dll61c02c0mgl/V1)
 ### 【FEATURES - v1.8.9】
  <ins>**This texture pack changes the looks of:**</ins><br>
