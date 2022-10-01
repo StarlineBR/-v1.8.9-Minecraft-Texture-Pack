@@ -1,5 +1,5 @@
 ### 【DOWNLOAD】<br>
- [download texture pack here](https://www.mediafire.com/folder/dll61c02c0mgl/V1)
+ ● [download texture pack here](https://www.mediafire.com/folder/dll61c02c0mgl/V1)
 ### 【FEATURES - v1.8.9】
  <ins>**This texture pack changes the looks of:**</ins><br>
  ● Diamond Armor Layer 1<br>
@@ -17,10 +17,10 @@
  ● Books and enchantment books<br>
  ● Items and icons<br>
  ● And more...
- 【TEXTURE RESOLUTION】<br>
+  ###【TEXTURE RESOLUTION】<br>
  ● 128x128<br>
  ● rest of the texture has different resolution
-  ### 【CONFIG】<br>
+ ### 【CONFIG】<br>
  ⚠️To activate the armor durability effect, you need optfine and go to options:<br>
  ● options > video options... > Quality... and enable the Custom Items option<br>
  ⚠️ Para ativar o efeito de durabilidade das armaduras, você precisa do optfine e ir nas opções:<br>
