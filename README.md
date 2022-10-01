@@ -17,7 +17,7 @@
  ● Books and enchantment books<br>
  ● Items and icons<br>
  ● And more...
-  ###【TEXTURE RESOLUTION】<br>
+ ### 【TEXTURE RESOLUTION】<br>
  ● 128x128<br>
  ● rest of the texture has different resolution
  ### 【CONFIG】<br>
